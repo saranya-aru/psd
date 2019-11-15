@@ -1,0 +1,14 @@
+{
+    "liveSassCompile.settings.formats": [{
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/css"
+    }, ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "editor.formatOnSaveTimeout": 2000,
+    "editor.formatOnType": true,
+    "html.format.endWithNewline": true,
+    "editor.wordWrap": "on"
+}
